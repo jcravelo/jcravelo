@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Laravel and React.js
 - 💞️ I’m looking to collaborate on internacional latam company
 - 📫 How to reach me:
+- 
     @:          jcravelo@gmail.com
     Whatssapp:  829-284-7799
     LinkedIn:   https://www.linkedin.com/in/jcravelo/
